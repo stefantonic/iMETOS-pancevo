@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/air_temp/test_comparison.png?raw=true" />
+  <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/relative_humidity/test_comparison_humidity.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/air_temp/test_comparison.png?raw=true)" />
+  <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/precipitation/test_precipitation_sum.png?raw=true" />
 </p>
 
 
