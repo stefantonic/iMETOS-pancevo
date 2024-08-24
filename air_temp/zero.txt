@@ -1,0 +1,310 @@
+Summary of frequencies:
+Max Above 0°C: 4892
+Min Below 0°C: 750
+
+Yearly Frequencies and Absolute Differences:
+
+Max Temperatures Above 0°C:
+Year: 2010.0, Total Count: 243.0, Absolute Difference: N/A
+Year: 2011.0, Total Count: 343.0, Absolute Difference: 100.0
+Year: 2012.0, Total Count: 330.0, Absolute Difference: 13.0
+Year: 2013.0, Total Count: 355.0, Absolute Difference: 25.0
+Year: 2014.0, Total Count: 362.0, Absolute Difference: 7.0
+Year: 2015.0, Total Count: 347.0, Absolute Difference: 15.0
+Year: 2016.0, Total Count: 338.0, Absolute Difference: 9.0
+Year: 2017.0, Total Count: 347.0, Absolute Difference: 9.0
+Year: 2018.0, Total Count: 356.0, Absolute Difference: 9.0
+Year: 2019.0, Total Count: 358.0, Absolute Difference: 2.0
+Year: 2020.0, Total Count: 359.0, Absolute Difference: 1.0
+Year: 2021.0, Total Count: 359.0, Absolute Difference: 0.0
+Year: 2022.0, Total Count: 258.0, Absolute Difference: 101.0
+Year: 2023.0, Total Count: 305.0, Absolute Difference: 47.0
+Year: 2024.0, Total Count: 232.0, Absolute Difference: 73.0
+
+Min Temperatures Below 0°C:
+Year: 2010.0, Total Count: 26.0, Absolute Difference: N/A
+Year: 2011.0, Total Count: 54.0, Absolute Difference: 28.0
+Year: 2012.0, Total Count: 42.0, Absolute Difference: 12.0
+Year: 2013.0, Total Count: 67.0, Absolute Difference: 25.0
+Year: 2014.0, Total Count: 14.0, Absolute Difference: 53.0
+Year: 2015.0, Total Count: 37.0, Absolute Difference: 23.0
+Year: 2016.0, Total Count: 80.0, Absolute Difference: 43.0
+Year: 2017.0, Total Count: 74.0, Absolute Difference: 6.0
+Year: 2018.0, Total Count: 68.0, Absolute Difference: 6.0
+Year: 2019.0, Total Count: 63.0, Absolute Difference: 5.0
+Year: 2020.0, Total Count: 56.0, Absolute Difference: 7.0
+Year: 2021.0, Total Count: 71.0, Absolute Difference: 15.0
+Year: 2022.0, Total Count: 62.0, Absolute Difference: 9.0
+Year: 2023.0, Total Count: 15.0, Absolute Difference: 47.0
+Year: 2024.0, Total Count: 21.0, Absolute Difference: 6.0
+
+Frequencies for 2010 (Sorted from Lowest to Highest):
+
+Max Temperatures Above 0°C:
+Temperature: 0.42, Count: 1.0
+Temperature: 25.66, Count: 1.0
+Temperature: 25.67, Count: 1.0
+Temperature: 25.87, Count: 1.0
+Temperature: 25.96, Count: 1.0
+Temperature: 25.97, Count: 1.0
+Temperature: 26.29, Count: 1.0
+Temperature: 26.32, Count: 1.0
+Temperature: 26.33, Count: 1.0
+Temperature: 26.52, Count: 1.0
+Temperature: 26.68, Count: 1.0
+Temperature: 26.75, Count: 1.0
+Temperature: 25.64, Count: 1.0
+Temperature: 26.94, Count: 1.0
+Temperature: 27.15, Count: 1.0
+Temperature: 27.26, Count: 1.0
+Temperature: 27.38, Count: 1.0
+Temperature: 27.41, Count: 1.0
+Temperature: 27.48, Count: 1.0
+Temperature: 27.49, Count: 1.0
+Temperature: 27.54, Count: 1.0
+Temperature: 27.59, Count: 1.0
+Temperature: 27.61, Count: 1.0
+Temperature: 27.63, Count: 1.0
+Temperature: 27.87, Count: 1.0
+Temperature: 26.97, Count: 1.0
+Temperature: 27.97, Count: 1.0
+Temperature: 25.49, Count: 1.0
+Temperature: 25.31, Count: 1.0
+Temperature: 22.1, Count: 1.0
+Temperature: 36.39, Count: 1.0
+Temperature: 22.37, Count: 1.0
+Temperature: 22.46, Count: 1.0
+Temperature: 22.62, Count: 1.0
+Temperature: 22.65, Count: 1.0
+Temperature: 22.67, Count: 1.0
+Temperature: 22.72, Count: 1.0
+Temperature: 22.86, Count: 1.0
+Temperature: 22.97, Count: 1.0
+Temperature: 23.21, Count: 1.0
+Temperature: 25.43, Count: 1.0
+Temperature: 23.32, Count: 1.0
+Temperature: 23.43, Count: 1.0
+Temperature: 24.14, Count: 1.0
+Temperature: 24.63, Count: 1.0
+Temperature: 24.64, Count: 1.0
+Temperature: 24.68, Count: 1.0
+Temperature: 24.69, Count: 1.0
+Temperature: 24.77, Count: 1.0
+Temperature: 24.94, Count: 1.0
+Temperature: 25.05, Count: 1.0
+Temperature: 25.09, Count: 1.0
+Temperature: 25.15, Count: 1.0
+Temperature: 23.34, Count: 1.0
+Temperature: 22.0, Count: 1.0
+Temperature: 28.14, Count: 1.0
+Temperature: 28.33, Count: 1.0
+Temperature: 31.19, Count: 1.0
+Temperature: 31.27, Count: 1.0
+Temperature: 31.29, Count: 1.0
+Temperature: 31.81, Count: 1.0
+Temperature: 31.86, Count: 1.0
+Temperature: 31.89, Count: 1.0
+Temperature: 32.42, Count: 1.0
+Temperature: 32.78, Count: 1.0
+Temperature: 33.06, Count: 1.0
+Temperature: 33.27, Count: 1.0
+Temperature: 33.34, Count: 1.0
+Temperature: 31.05, Count: 1.0
+Temperature: 33.43, Count: 1.0
+Temperature: 33.67, Count: 1.0
+Temperature: 33.81, Count: 1.0
+Temperature: 33.83, Count: 1.0
+Temperature: 34.67, Count: 1.0
+Temperature: 34.73, Count: 1.0
+Temperature: 34.85, Count: 1.0
+Temperature: 35.19, Count: 1.0
+Temperature: 35.33, Count: 1.0
+Temperature: 35.39, Count: 1.0
+Temperature: 35.69, Count: 1.0
+Temperature: 36.11, Count: 1.0
+Temperature: 33.52, Count: 1.0
+Temperature: 28.2, Count: 1.0
+Temperature: 30.99, Count: 1.0
+Temperature: 30.91, Count: 1.0
+Temperature: 28.48, Count: 1.0
+Temperature: 28.49, Count: 1.0
+Temperature: 28.6, Count: 1.0
+Temperature: 28.61, Count: 1.0
+Temperature: 28.7, Count: 1.0
+Temperature: 28.74, Count: 1.0
+Temperature: 28.82, Count: 1.0
+Temperature: 28.94, Count: 1.0
+Temperature: 29.2, Count: 1.0
+Temperature: 29.32, Count: 1.0
+Temperature: 29.34, Count: 1.0
+Temperature: 30.98, Count: 1.0
+Temperature: 29.35, Count: 1.0
+Temperature: 29.57, Count: 1.0
+Temperature: 29.59, Count: 1.0
+Temperature: 29.69, Count: 1.0
+Temperature: 29.76, Count: 1.0
+Temperature: 30.15, Count: 1.0
+Temperature: 30.3, Count: 1.0
+Temperature: 30.33, Count: 1.0
+Temperature: 30.6, Count: 1.0
+Temperature: 30.62, Count: 1.0
+Temperature: 30.66, Count: 1.0
+Temperature: 30.73, Count: 1.0
+Temperature: 29.43, Count: 1.0
+Temperature: 21.97, Count: 1.0
+Temperature: 22.11, Count: 1.0
+Temperature: 15.39, Count: 1.0
+Temperature: 12.08, Count: 1.0
+Temperature: 12.61, Count: 1.0
+Temperature: 12.69, Count: 1.0
+Temperature: 12.77, Count: 1.0
+Temperature: 12.91, Count: 1.0
+Temperature: 13.07, Count: 1.0
+Temperature: 13.26, Count: 1.0
+Temperature: 13.27, Count: 1.0
+Temperature: 13.42, Count: 1.0
+Temperature: 13.6, Count: 1.0
+Temperature: 13.94, Count: 1.0
+Temperature: 11.66, Count: 1.0
+Temperature: 14.23, Count: 1.0
+Temperature: 14.42, Count: 1.0
+Temperature: 14.52, Count: 1.0
+Temperature: 14.76, Count: 1.0
+Temperature: 14.8, Count: 1.0
+Temperature: 15.04, Count: 1.0
+Temperature: 15.07, Count: 1.0
+Temperature: 15.12, Count: 1.0
+Temperature: 15.18, Count: 1.0
+Temperature: 15.22, Count: 1.0
+Temperature: 15.3, Count: 1.0
+Temperature: 21.82, Count: 1.0
+Temperature: 14.35, Count: 1.0
+Temperature: 11.45, Count: 1.0
+Temperature: 10.8, Count: 1.0
+Temperature: 10.73, Count: 1.0
+Temperature: 0.88, Count: 1.0
+Temperature: 2.44, Count: 1.0
+Temperature: 2.55, Count: 1.0
+Temperature: 2.78, Count: 1.0
+Temperature: 3.17, Count: 1.0
+Temperature: 5.4, Count: 1.0
+Temperature: 5.88, Count: 1.0
+Temperature: 6.3, Count: 1.0
+Temperature: 7.45, Count: 1.0
+Temperature: 7.51, Count: 1.0
+Temperature: 7.56, Count: 1.0
+Temperature: 7.67, Count: 1.0
+Temperature: 7.8, Count: 1.0
+Temperature: 8.22, Count: 1.0
+Temperature: 8.96, Count: 1.0
+Temperature: 9.33, Count: 1.0
+Temperature: 9.53, Count: 1.0
+Temperature: 9.96, Count: 1.0
+Temperature: 10.22, Count: 1.0
+Temperature: 10.33, Count: 1.0
+Temperature: 10.48, Count: 1.0
+Temperature: 10.56, Count: 1.0
+Temperature: 10.59, Count: 1.0
+Temperature: 10.67, Count: 1.0
+Temperature: 10.7, Count: 1.0
+Temperature: 15.61, Count: 1.0
+Temperature: 15.82, Count: 1.0
+Temperature: 38.26, Count: 1.0
+Temperature: 16.01, Count: 1.0
+Temperature: 19.07, Count: 1.0
+Temperature: 19.19, Count: 1.0
+Temperature: 19.45, Count: 1.0
+Temperature: 15.84, Count: 1.0
+Temperature: 19.75, Count: 1.0
+Temperature: 19.76, Count: 1.0
+Temperature: 19.83, Count: 1.0
+Temperature: 19.96, Count: 1.0
+Temperature: 20.04, Count: 1.0
+Temperature: 20.26, Count: 1.0
+Temperature: 19.0, Count: 1.0
+Temperature: 20.43, Count: 1.0
+Temperature: 21.52, Count: 1.0
+Temperature: 20.5, Count: 1.0
+Temperature: 20.57, Count: 1.0
+Temperature: 21.45, Count: 1.0
+Temperature: 20.6, Count: 1.0
+Temperature: 20.74, Count: 1.0
+Temperature: 20.89, Count: 1.0
+Temperature: 21.37, Count: 1.0
+Temperature: 21.02, Count: 1.0
+Temperature: 21.26, Count: 1.0
+Temperature: 20.44, Count: 1.0
+Temperature: 21.11, Count: 1.0
+Temperature: 21.53, Count: 1.0
+Temperature: 18.79, Count: 1.0
+Temperature: 16.22, Count: 1.0
+Temperature: 16.45, Count: 1.0
+Temperature: 16.55, Count: 1.0
+Temperature: 21.77, Count: 1.0
+Temperature: 16.61, Count: 1.0
+Temperature: 16.74, Count: 1.0
+Temperature: 16.79, Count: 1.0
+Temperature: 16.89, Count: 1.0
+Temperature: 17.23, Count: 1.0
+Temperature: 17.29, Count: 1.0
+Temperature: 18.82, Count: 1.0
+Temperature: 17.39, Count: 1.0
+Temperature: 17.52, Count: 1.0
+Temperature: 17.61, Count: 1.0
+Temperature: 17.69, Count: 1.0
+Temperature: 21.63, Count: 1.0
+Temperature: 17.91, Count: 1.0
+Temperature: 18.1, Count: 1.0
+Temperature: 18.15, Count: 1.0
+Temperature: 18.23, Count: 1.0
+Temperature: 18.45, Count: 1.0
+Temperature: 18.77, Count: 1.0
+Temperature: 17.42, Count: 1.0
+Temperature: 21.23, Count: 1.0
+Temperature: 35.16, Count: 2.0
+Temperature: 21.99, Count: 2.0
+Temperature: 20.97, Count: 2.0
+Temperature: 8.98, Count: 2.0
+Temperature: 32.82, Count: 2.0
+Temperature: 24.21, Count: 2.0
+Temperature: 30.43, Count: 2.0
+Temperature: 29.4, Count: 2.0
+Temperature: 27.53, Count: 2.0
+Temperature: 22.8, Count: 2.0
+Temperature: 19.68, Count: 3.0
+
+Min Temperatures Below 0°C:
+Temperature: -13.12, Count: 1.0
+Temperature: -0.22, Count: 1.0
+Temperature: -0.61, Count: 1.0
+Temperature: -0.67, Count: 1.0
+Temperature: -0.68, Count: 1.0
+Temperature: -1.2, Count: 1.0
+Temperature: -1.32, Count: 1.0
+Temperature: -1.48, Count: 1.0
+Temperature: -1.82, Count: 1.0
+Temperature: -2.5, Count: 1.0
+Temperature: -2.69, Count: 1.0
+Temperature: -3.2, Count: 1.0
+Temperature: -3.55, Count: 1.0
+Temperature: -3.8, Count: 1.0
+Temperature: -4.06, Count: 1.0
+Temperature: -4.38, Count: 1.0
+Temperature: -4.78, Count: 1.0
+Temperature: -6.3, Count: 1.0
+Temperature: -9.16, Count: 1.0
+Temperature: -11.1, Count: 1.0
+Temperature: -11.69, Count: 1.0
+Temperature: -12.32, Count: 1.0
+Temperature: -12.38, Count: 1.0
+Temperature: -12.83, Count: 1.0
+Temperature: -0.16, Count: 1.0
+Temperature: -0.03, Count: 1.0
+
+Max Temperatures Above 0°C that occurred more than once:
+
+Min Temperatures Below 0°C that occurred more than once:
+
+Overall Temperature Ranges:
+Max temperatures above 0°C - Lowest: 0.01, Highest: 40.9
+Min temperatures below 0°C - Lowest: -9.04, Highest: 23.05
