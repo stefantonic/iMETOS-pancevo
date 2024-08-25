@@ -5,7 +5,7 @@ optimizaciju upotrebe djubriva i pesticida i opste upravljanje useva zemljista.<
 
 Stanica na Starom Tamisu svakodnevno analizira podatke i evidentira ih **automatski** prenosenjem informacija na server/cloud sto omogucava pristup podacima u realnom vremenu. Stanica se nalazi na lokaciji 44.868716 20.76308 (Istrazivacko-razvojni institut Tamis Pancevo)<br>
 
-Rezultate analize su izvedeni iz dataseta racunanjem frekvencije(ponavljanja) zabelezenih vrednosti na osnovu istih/priblizno slicnih pojava svakodnevno u periodu januar-decembar 2010-2024, skala prema kojoj je to uredjeno zavisi od senzora cije podatke pokusavamo da izracunamo.<br>
+**Rezultate analize su izvedeni iz dataseta racunanjem frekvencije(ponavljanja) zabelezenih vrednosti na osnovu istih/priblizno slicnih pojava svakodnevno u periodu januar-decembar 2010-2024, skala prema kojoj je to uredjeno zavisi od senzora cije podatke pokusavamo da izracunamo**.<br>
 
 Analiza je uradjena za temperaturu vazduha, relativnu vlaznost vazduha, padavine(kise,snega,susnezice,grada), deficita vodenog pritiska, temperaturu pritiska.<br>
  
