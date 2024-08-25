@@ -17,7 +17,7 @@ Analiza je uradjena za temperaturu vazduha, relativnu vlaznost vazduha, padavine
   <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/relative_humidity/test_comparison_humidity.png" />
 </p>
 
-## Tabela koja sadrzi listu senzora koji se obicno koristi sa uredjajem iMETOS, senzori i njihova dostupnost zavisi od modela stanice
+## Tabela koja sadrzi listu senzora koji se koriste sa uredjajem iMETOS, senzori i njihova dostupnost zavisi od modela stanice
 
 | **Senzor**                | **Opis**                                                                                   | **Funkcija i rad**                                                                                     |
 |---------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
