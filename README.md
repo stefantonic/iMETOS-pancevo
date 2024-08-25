@@ -17,13 +17,18 @@ Analiza je uradjena za temperaturu vazduha, relativnu vlaznost vazduha, padavine
   <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/relative_humidity/test_comparison_humidity.png" />
 </p>
 
-|Analiza podataka | Princip uzorkovanja i merenja | Granicna gornja vrednost koja ne bi trebala biti predjena za kal. godinu           
-|----------------|----------------|----------------| 
-|temperatura vazduha                |Uzorkovanje u toku 24h. analiza uzorka u laboratoriji metoda sa tetrahlormerkuratom i pararosanilinom. | 50µg/m3
-relativna vlaznost vazduha				|	Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, reflektometrija.| 50µg/m3
-padavine(kisa,sneg,susnezica,grad)				| Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, Griess-Saltzmann-ov metod(spektrofotometrija)| 40µg/m3
-deficit vodenog pritiska				| Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, spektrofotometrija, "indofenol plavo"| Nedefinisano
-temperatura zemlje			| Nedefinisano | 5µg/m3
+| **Senzor**                | **Opis**                                                                                   | **Funkcija i rad**                                                                                     |
+|---------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Temperaturni senzor**  | Meri temperaturu vazduha.                                                                 | Senzor koristi termostatski element (obično termopar ili termistor) koji registruje promene u temperaturi i salje podatke.                          |
+| **Vlažnost vazduha**      | Meri relativnu vlaznost vazduha.                                                           | Koristi higrometarski element (kao sto je kapacitivni ili otpornik senzor) koji osetljivo reaguje na promene u količini vodene pare u vazduhu.                |
+| **Senzor padavina**       | Meri količinu padavina.                                                                     | Ponekad koristi princip padavina u kapacitivnoj ili infracrvenoj tehnologiji za merenje kolicine padavina u vremenskim periodima.                        |
+| **Vetro-senzor**          | Meri brzinu i pravac vetra.                                                                 | Ukljucuje anemometar za brzinu vetra i više anemometara ili osciloskope za odredjivanje pravca vetra. Cesto koristi mehanicke ili elektronske komponente. |
+| **Senzor radijacije**    | Meri intenzitet solarne radijacije.                                                        | Koristi fotoelektricne celije ili druge fotosenzorske komponente koje mere količinu sunceve svetlosti koja pada na senzor.                      |
+| **Senzor vlažnosti tla** | Meri vlaznost u zemljistu.                                                                  | Koristi kapacitivni ili otpornik princip za merenje kolicine vode u tlu, sto utice na elektricne karakteristike senzora.                               |
+| **Senzor temperature tla** | Meri temperaturu tla.                                                                      | Koristi termopar, termistor ili slicne tehnologije za merenje temperature u razlicitim slojevima tla.                                                     |
+| **Senzor pritiska**      | Meri atmosferski pritisak.                                                                  | Koristi barometrijski senzor koji meri varijacije u atmosferskom pritisku, sto moze biti korisno za prognozu vremenskih uslova.                              |
+| **Senzor ugljen-dioksida (CO2)** | Meri koncentraciju ugljen-dioksida u vazduhu.                                             | Koristi infracrvene tehnologije ili druge principe za detekciju koncentracije CO2 u atmosferi.                                                            |
+| **Senzor za intenzitet svetlosti** | Meri intenzitet svetlosti u okruzenju.                                                      | Koristi fotodetektore koji pretvaraju svetlost u elektricni signal, omogucavajuci merenje intenziteta svetlosti.                                             |
 
 ## Resursi
 `FieldClimate -> iMETOS 3.3, svi podaci su skinuti sa ovog sajta za dalju analizu`<br>
