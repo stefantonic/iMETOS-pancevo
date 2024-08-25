@@ -17,14 +17,13 @@ Analiza je uradjena za temperaturu vazduha, relativnu vlaznost vazduha, padavine
   <img src="https://github.com/stefantonic/iMETOS3.3-pancevo/blob/main/relative_humidity/test_comparison_humidity.png" />
 </p>
 
-|Suspendovane cestice | Princip uzorkovanja i merenja | Granicna gornja vrednost koja ne bi trebala biti predjena za kal. godinu           
+|Analiza podataka | Princip uzorkovanja i merenja | Granicna gornja vrednost koja ne bi trebala biti predjena za kal. godinu           
 |----------------|----------------|----------------| 
-|SO2                |Uzorkovanje u toku 24h. analiza uzorka u laboratoriji metoda sa tetrahlormerkuratom i pararosanilinom. | 50µg/m3
-ČAĐ				|	Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, reflektometrija.| 50µg/m3
-NO2				| Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, Griess-Saltzmann-ov metod(spektrofotometrija)| 40µg/m3
-NH3				| Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, spektrofotometrija, "indofenol plavo"| Nedefinisano
-Benzen			| Nedefinisano | 5µg/m3
-PM10          | Jedno uzorkovanje u toku 24h u laboratoriji, druga cetiri se vrse automatski| 40µg/m3
+|temperatura vazduha                |Uzorkovanje u toku 24h. analiza uzorka u laboratoriji metoda sa tetrahlormerkuratom i pararosanilinom. | 50µg/m3
+relativna vlaznost vazduha				|	Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, reflektometrija.| 50µg/m3
+padavine(kisa,sneg,susnezica,grad)				| Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, Griess-Saltzmann-ov metod(spektrofotometrija)| 40µg/m3
+deficit vodenog pritiska				| Uzorkovanje u toku 24h. analiza uzorka u laboratoriji, spektrofotometrija, "indofenol plavo"| Nedefinisano
+temperatura zemlje			| Nedefinisano | 5µg/m3
 
 ## Resursi
 `FieldClimate -> iMETOS 3.3, svi podaci su skinuti sa ovog sajta za dalju analizu`<br>
