@@ -43,8 +43,8 @@ na masini koja pokrece<br>
 `python 3.10.12`<br>
 
 ## Instalacija
-`git clone https://github.com/6c756e6172/zjzpa-analiza.git`<br>
-`pipinstall pypdf pandas numpy`<br>
+`git clone https://github.com/stefantonic/iMETOS-pancevo.git`<br>
+`pipinstall csv pyexcel panda plotly.express`<br>
 `chmod +x ./script.sh` zatim `./script.sh`<br> 
 
 ## Licenca
